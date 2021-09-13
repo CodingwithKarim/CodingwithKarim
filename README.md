@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodingwithKarim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 <h1 align="center">Hi🤝, I'm Karim Hassan</h>
-<h3 align="center">A Boston based software engineer who is commited to solving problems and learning everyday🙏.
+<h3 align="center">A Boston based Software Engineer who is commited to solving problems and learning everyday🙏.
 </h3>
 
 <h3 align="center">Let's Connect!</h3>
