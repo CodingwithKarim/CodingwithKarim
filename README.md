@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">Languages</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/html+html5+icon-1320186681398289636.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="60" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/html+html5+icon-1320186681398289636.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="60" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" width="40" height="40"/> </a> </p>
 
 <h3 align="center"></h3>
 <p align="center"><img src="https://media.giphy.com/media/EimNpKJpihLY4/giphy.gif?cid=790b7611b1dbbe4d5296ec79b452a662993c22bb8164ffc7&rid=giphy.gif&ct=g"></p>
