@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <h3 align="center">A Boston based software engineer who is commited to solving problems and learning everyday🙏.
 </h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Let's Connect!</h3>
 <p align="center">
 <a href="https://twitter.com/CodingKarim" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg alt="Karim Hassan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/karim-hassan-9741bb21a//" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages</h3>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/html+html5+icon-1320186681398289636.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="60" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
 <h3 align="center"></h3>
