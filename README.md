@@ -1,32 +1,51 @@
+<!-- GitHub Profile README for CodingwithKarim -->
 
-
-<!--
-**CodingwithKarim/CodingwithKarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodingwithKarim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
-<h1 align="center">Hi🤝, I'm Karim Hassan</h>
-<h3 align="center">A Boston based Software Engineer who is commited to solving problems and learning🙏
+<h1 align="center">
+  👋 Hi, I'm Karim Hassan
+</h1>
+<h3 align="center">
+ Boston based Software Engineer passionate about solving real-world problems with an even greater passion for learning.
 </h3>
 
-<h3 align="center">Let's Connect!</h3>
-<p align="center">
-<a href="https://twitter.com/CodingKarim" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg alt="Karim Hassan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/karim-hassan-9741bb21a//" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="" height="30" width="40" /></a>
+---
+
+### 🚀 About Me
+
+- 💻 I specialize in **full-stack development**, with a focus on .NET (C#), Go, and modern JavaScript frameworks.
+- 🏦 3+ years of experience in **FinTech**, working on trading platforms, microservices, and UI modernization.
+- 🧪 Advocate for clean architecture, scalable backend systems, and constantly learning.
+- 🛠️ Featured projects:
+  - [FreeAI](https://github.com/CodingwithKarim/freeai) – An AI control center for running, downloading, and optimizing millions of AI models entirely on your own computer hardware.
+  - [HSON Server](https://github.com/CodingwithKarim/hson-server) – A Drop-in JSON-Server replacement supporting JSON + HJSON. Supports deep nesting, live reloads, and complex HTTP based queries.
+  - [Posto](https://github.com/codingwithkarim/posto) – Secure, encrypted, and zero knowledge blogging platform built with Go and AWS.
+  - [AgentK](https://github.com/CodingwithKarim/agentk) – A WrapGPT combining the all the models from the 7 major providers into a local hub where remote interference requests can be made. 
+  - [Automata](https://github.com/CodingwithKarim/automata) – Social media automation tool meant to show how we can still automate work in remote web services in a tasteful manner without acting like a typical bot. Simulates real human like browser interaction. Use wisely.
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+   <a href="https://codingwithkarim.github.io/dev-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-karimhassan.dev-orange?logo=firefox" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/karimahassan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karim_Hassan-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+   <a href="https://www.youtube.com/@CodingwithKarim" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@CodingwithKarim-FF0000?logo=youtube" alt="YouTube" />
+  </a>
+   
 </p>
 
-<h3 align="center">Languages</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/html+html5+icon-1320186681398289636.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="60" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="center"></h3>
-<p align="center"><img src="https://media.giphy.com/media/3ohzAWPbp0ZyUpYTD2/giphy.gif?cid=ecf05e472od3fsim3jfoy920tqb5hcxflz82gnunkirfb4bl&rid=giphy.gif&ct=g"</p>
+### 🛠️ Tech Stack
+
+- **Languages**: C#, JavaScript / TypeScript, Go, Python, SQL
+- **Frontend**: React.js, Razor Pages, HTML/CSS, HTML Template Frameworks
+- **Backend**: .NET Core, Node.js, Gin (Go), Uvicorn + FastAPI (Python)
+- **Databases**: MySQL, SQL Server, MongoDB, SQLite
+- **DevOps / Cloud**: AWS (EC2, RDS, Lambda), GitHub Actions, Docker, Terraform, Pulumi
+- **Testing**: xUnit, Moq, NUnit, React Testing Library, Integration & Regression Testing
+
+---
