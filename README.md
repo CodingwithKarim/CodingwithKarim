@@ -14,7 +14,7 @@
 - 💻 I specialize in **full-stack development**, with a focus on .NET (C#), Go, and modern JavaScript frameworks.
 - 🏦 3+ years of experience in **FinTech**, working on trading platforms, microservices, and UI modernization.
 - 🧪 Advocate for clean architecture, scalable backend systems, and constantly learning.
-- 🛠️ Featured projects:
+- 🛠️ Featured:
   - [FreeAI](https://github.com/CodingwithKarim/freeai) – An AI control center for running, downloading, and optimizing millions of AI models entirely on your own computer hardware.
   - [HSON Server](https://github.com/CodingwithKarim/hson-server) – A Drop-in JSON-Server replacement supporting JSON + HJSON. Supports deep nesting, live reloads, and complex HTTP based queries.
   - [Posto](https://github.com/codingwithkarim/posto) – Secure, encrypted, and zero knowledge blogging platform built with Go and AWS.
