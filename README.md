@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 💻 I specialize in **full-stack development**, with a focus on .NET (C#), Go, and modern JavaScript frameworks.
+- 💻 I specialize in **full-stack development**, with a focus on .NET (C#), PHP, and modern JavaScript frameworks.
 - 🏦 3+ years of experience in **FinTech**, working on trading platforms, microservices, and UI modernization.
 - 🧪 Advocate for clean architecture, scalable backend systems, and constantly learning.
 - 🛠️ Featured:
@@ -41,7 +41,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: C#, JavaScript / TypeScript, Go, Python, SQL
+- **Languages**: C#, JavaScript / TypeScript, PHP, Python, SQL
 - **Frontend**: React.js, Razor Pages, HTML/CSS, HTML Template Frameworks
 - **Backend**: .NET Core, Node.js, Gin (Go), Uvicorn + FastAPI (Python)
 - **Databases**: MySQL, SQL Server, MongoDB, SQLite
