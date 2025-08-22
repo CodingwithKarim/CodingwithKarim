@@ -19,7 +19,7 @@
   - [HSON Server](https://github.com/CodingwithKarim/hson-server) – A Drop-in JSON-Server replacement supporting JSON + HJSON. Supports deep nesting, live reloads, and complex HTTP based queries.
   - [Posto](https://github.com/codingwithkarim/posto) – Secure, encrypted, and zero knowledge blogging platform built with Go and AWS.
   - [AgentK](https://github.com/CodingwithKarim/agentk) – A WrapGPT combining the all the models from the 7 major providers into a local hub where remote interference requests can be made. 
-  - [Automata](https://github.com/CodingwithKarim/automata) – Social media automation tool meant to show how we can still automate work in remote web services in a tasteful manner without acting like a typical bot. Simulates real human like browser interaction. Use wisely.
+  - [Automata](https://github.com/CodingwithKarim/automata) – Social media automation tool meant to show how we can still automate work in remote web services in a tasteful manner without acting like a typical bot. Simulates real human like browser interaction.
 
 ---
 
